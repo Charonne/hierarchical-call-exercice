@@ -24,7 +24,7 @@ Execute
 php index.php
 </pre>
 Or got to 
-<i>http://localhost/hierarchical-exercice/index.php</i>
+<i>http://localhost/hierarchical-exercice/index.php</i><br />
 You should see
 <pre>
 Public: 1EbKLRDDcW9HRnAcDxDtgrBJNFFGFaumRT
