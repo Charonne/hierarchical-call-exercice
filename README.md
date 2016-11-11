@@ -11,8 +11,9 @@ mv composer.phar /usr/local/bin/composer
 </pre>
 
 <h2>Install bitcoinECDSA</h2>
-Execute
+Git clone this project and execute
 <pre>
+cd hierarchical-exercice/
 composer require bitcoin-php/bitcoin-ecdsa
 composer install
 </pre>
