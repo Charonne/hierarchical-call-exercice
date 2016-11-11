@@ -35,8 +35,8 @@ It's illustrate that you can have random addresses, or predetermined addresses w
 create a function based on hierarchical to retrieve a private key from a public key
 You have to:
 <ul>
-<li>mettre en place un système hiérarchique</li>
-<li>créer une fonction pour retrouver une clé privée à partir de ce système hiérarchique</li>
+<li>Set up a hierarchical system</li>
+<li>Create a function to retrieve a private key from this hierarchical system</li>
 </ul>
 <h2>Details</h2>
 <ul>
