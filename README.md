@@ -40,7 +40,7 @@ To create a function based on hierarchical to retrieve a private key from a publ
 <h2>Details</h2>
 <ul>
 <li>Comment or remove the random block</li>
-<li>Use the <strong>for</strong> loop on the Passphrase block, and change the limit to 20</li>
+<li>Use the <strong>for</strong> loop on the Passphrase block, and change the limit to 20 <code>for($i = 0; $i <= 20; $i++) {}</code></li>
 <li>Concatenate the $i at the end of the passphrase on each iteration <code>$passphrase . $i</code></li>
 <li>Store the 16th public key on a variable</li>
 <li>Create a function which take the public key parameter, and retrieve the private associated</li>
