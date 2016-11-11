@@ -32,8 +32,7 @@ It's illustrate that you can have random addresses, or predetermined addresses w
 
 <h1>Exercice</h1>
 <h2>Purpose</h2>
-create a function based on hierarchical to retrieve a private key from a public key
-You have to:
+To create a function based on hierarchical to retrieve a private key from a public key, you have to:
 <ul>
 <li>Set up a hierarchical system</li>
 <li>Create a function to retrieve a private key from this hierarchical system</li>
