@@ -25,6 +25,12 @@ php index.php
 </pre>
 Or got to 
 <i>http://localhost/hierarchical-exercice/index.php</i>
+You should see
+<pre>
+Public: 1EbKLRDDcW9HRnAcDxDtgrBJNFFGFaumRT
+Private: e8b8cb723816e654c9ad0b465ec64028c929faf0595ccad6485eb3afcb4ce103
+...
+</pre>
 
 <h1>Test random generation of addresses</h1>
 Uncomment the <code>// Random addresses</code> block, and test the script
