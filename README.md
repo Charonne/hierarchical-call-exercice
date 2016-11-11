@@ -26,7 +26,7 @@ Or got to
 <i>http://localhost/hierarchical-exercice/index.php</i>
 
 <h1>Test random generation of addresses</h1>
-Uncomment the <i>// Random addresses</i> block, and test the script
+Uncomment the <code>// Random addresses</code> block, and test the script
 It's illustrate that you can have random addresses, or predetermined addresses with passphrases
 
 
