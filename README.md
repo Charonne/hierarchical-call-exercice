@@ -1,4 +1,4 @@
-# hierarchical-call-exercice
+# Hierarchical exercice
 An exercice to practice hierarchical addresses.<br />
 With one passphrase, you can generate multiples addresses.
 
