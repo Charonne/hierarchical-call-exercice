@@ -31,13 +31,21 @@ It's illustrate that you can have random addresses, or predetermined addresses w
 
 
 <h1>Exercice</h1>
-Aim: create a function based on hierarchical to retrieve a private key from a public key
+<h2>Purpose</h2>
+create a function based on hierarchical to retrieve a private key from a public key
+You have to:
+<ul>
+<li>mettre en place un système hiérarchique</li>
+<li>créer une fonction pour retrouver une clé privée à partir de ce système hiérarchique</li>
+</ul>
+<h2>Details</h2>
 <ul>
 <li>Comment or remove the random block</li>
 <li>Use the <strong>for</strong> loop on the Passphrase block, and change the limit to 20</li>
 <li>Concatenate the $i at the end of the passphrase on each iteration</li>
 <li>Store the 16th public key on a variable</li>
 <li>Create a function which take the public key parameter, and retrieve the private associated</li>
+</ul>
 
 
 
