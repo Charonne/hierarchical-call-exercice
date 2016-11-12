@@ -38,8 +38,7 @@ Private: e8b8cb723816e654c9ad0b465ec64028c929faf0595ccad6485eb3afcb4ce103
 </pre>
 
 <h1>Test random generation of addresses</h1>
-Uncomment the <code>// Random addresses</code> block, and test the script
-It's illustrate that you can have random addresses, or predetermined addresses with passphrases
+The <code>// Random addresses</code> block illustrates that you can have random addresses, or predetermined addresses with passphrases
 
 
 <h1>Exercice</h1>
