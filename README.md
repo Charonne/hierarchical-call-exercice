@@ -6,7 +6,7 @@ With one passphrase, you can generate multiples addresses.
 <h2>Install composer</h2>
 Install curl
 <pre>
-apt-get update && apt-get install curl php5 git
+apt-get update && apt-get install curl php5 php5-gmp git
 </pre>
 Execute
 <pre>
