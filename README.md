@@ -4,6 +4,10 @@ With one passphrase, you can generate multiples addresses.
 
 <h1>Installation</h1>
 <h2>Install composer</h2>
+Install curl
+<pre>
+apt-get update && apt-get install curl
+</pre>
 Execute
 <pre>
 curl -sS https://getcomposer.org/installer | php
