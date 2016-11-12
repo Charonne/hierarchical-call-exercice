@@ -18,7 +18,6 @@ if (php_sapi_name() == "cli") {
 $factory = new Factory();
 
 // Random addresses
-/*
 for($i = 0; $i <= 4; $i++) {
     $factory->generateMyRandomKey();
     $factory->getInfos();
@@ -34,7 +33,6 @@ for($i = 0; $i <= 4; $i++) {
         die('You got the impossible Win \o/');
     }
 }
-*/
 
 // Passphrase addresse
 $passphrase = 'Bitcoin is a cryptocurrency and a payment system';
