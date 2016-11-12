@@ -6,7 +6,7 @@ With one passphrase, you can generate multiples addresses.
 <h2>Install composer</h2>
 Install curl
 <pre>
-apt-get update && apt-get install curl
+apt-get update && apt-get install curl php5 git
 </pre>
 Execute
 <pre>
@@ -15,6 +15,7 @@ mv composer.phar /usr/local/bin/composer
 </pre>
 
 <h2>Install bitcoinECDSA</h2>
+Log as user<br />
 Git clone this project and execute
 <pre>
 cd hierarchical-exercice/
